@@ -1,4 +1,4 @@
-# Convertisseur d'Unités de Mesure en C
+# Convertisseur d'Unités de Mesure
 
 Ce projet est une application en **C** permettant de convertir différentes unités de mesure parmi 16 grandeurs, incluant la longueur, la température, la masse, la vitesse, et bien plus. L'objectif est de fournir une interface simple et efficace pour effectuer des conversions entre une variété d'unités de mesure.
 
