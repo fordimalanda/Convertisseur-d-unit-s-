@@ -8,37 +8,60 @@ Le programme prend en charge les conversions suivantes :
 
 1. **Longueur** :
    - Mètre (m)
-   - Kilomètre (km)
-   - Centimètre (cm)
-   - Millimètre (mm)
-   - Pouce (in)
-   - Pied (ft)
-   - Yard (yd)
    
-2. **Température** :
+2. **Surface** :
+   - Mètre carré (m²)
+   
+3. **Volume** :
+   - Mètre cube (m³)
+   
+4. **Temps** :
+   - Seconde (s)
+   
+5. **Intensité du courant** :
+   - Ampère (A)
+   
+6. **Masse** :
+   - Kilogramme (kg)
+   
+7. **Température** :
    - Celsius (°C)
-   - Fahrenheit (°F)
    - Kelvin (K)
    
-3. **Masse** :
-   - Kilogramme (kg)
-   - Gramme (g)
-   - Milligramme (mg)
-   - Livre (lb)
-   - Once (oz)
-   
-4. **Vitesse** :
+8. **Vitesse** :
    - Mètre par seconde (m/s)
-   - Kilomètre par heure (km/h)
-   - Mile par heure (mph)
-   - Nœud (kn)
+   
+9. **Force** :
+   - Newton (N)
+   
+10. **Énergie** :
+    - Joule (J)
+   
+11. **Pression** :
+    - Pascal (Pa)
+   
+12. **Fréquence** :
+    - Hertz (Hz)
+   
+13. **Puissance** :
+    - Watt (W)
+   
+14. **Poids** :
+    - Newton (N) *(La force gravitationnelle sur un objet, donc lié à la masse et à la gravité)*
+   
+15. **Travail** :
+    - Joule (J)
+   
+16. **Accélération** :
+    - Mètre par seconde carré (m/s²)
 
 ### Fonctionnalités principales
 
 - **Conversion entre unités de longueur**, par exemple : mètre ↔ kilomètre, pouce ↔ pied, etc.
-- **Conversion de températures**, comme Celsius ↔ Fahrenheit ↔ Kelvin.
+- **Conversion de températures**, comme Celsius ↔ Kelvin.
 - **Conversion de masse**, par exemple kilogramme ↔ livre, gramme ↔ once.
 - **Conversion de vitesse**, par exemple m/s ↔ km/h, mph ↔ nœud.
+- **Conversion de force, énergie, pression, puissance, travail, fréquence, etc.**.
 - Interface simple et conviviale accessible via la ligne de commande.
 
 ## Installation et Compilation
@@ -49,4 +72,3 @@ Le programme prend en charge les conversions suivantes :
 
    ```bash
    gcc --version
-
