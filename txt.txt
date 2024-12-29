@@ -11,7 +11,7 @@
 10. Energie ( Joule --> J )
 11. Pression ( Pascal --> Pa )
 12. Frequence ( Hertz --> Hz )
-13. 
-14.
-15.
-16.
+13. Puissance ( Watt --> W )
+14. Poids (  )
+15. Travail ( Joule --> J )
+16. Acceleration ( Metre par second carre --> m/s^2 )
