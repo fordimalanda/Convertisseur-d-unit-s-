@@ -2,8 +2,3 @@
 1. Longueur (metre --> m)
 2. Surface ( metre carre --> m^2 )
 3. Volume ()
-
-
-git remote add origin https://github.com/fordimalanda/Convertisseur_d_unites.git
-git push -u origin main
-
